@@ -2,7 +2,7 @@
 
 ### 📌 Project Overview
 
-This project is a React-based recreation of the Netflix homepage using Tailwind CSS for styling. The goal of this assignment is to replicate the visual structure and layout of Netflix's interface.
+This project is a Next.js-based recreation of the Netflix homepage using Tailwind CSS for styling. The goal of this assignment is to replicate the visual structure and layout of Netflix's interface.
 
 
 ## Installation & Setup
