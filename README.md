@@ -21,7 +21,7 @@ npm run dev  # For Next.js
 ```
 
 ### Dependencies
-- **React.js / Next.js**
+- **Next.js**
 - **Tailwind CSS**
 
 
