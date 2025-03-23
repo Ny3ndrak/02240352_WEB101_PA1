@@ -2,7 +2,7 @@
 
 ### 📌 Project Overview
 
-This project is a React-based recreation of the Netflix homepage using Tailwind CSS for styling. The goal of this assignment is to replicate the visual structure and layout of Netflix's interface while ensuring responsiveness and usability.
+This project is a React-based recreation of the Netflix homepage using Tailwind CSS for styling. The goal of this assignment is to replicate the visual structure and layout of Netflix's interface.
 
 
 ## Installation & Setup
@@ -42,8 +42,8 @@ npm run dev  # For Next.js
 ---
 
 ### 3. **Aligning Text**
-   - **Problem**: I needed to align text dynamically while maintaining responsiveness.
-   - **Solution**: I applied alignment-specific CSS classes such as `text-left` (in TailwindCSS) or manually added `text-align: left;` in custom CSS.
+   - **Problem**: I needed to align text dynamically.
+   - **Solution**: I applied alignment-specific CSS classes such as `text-left` (in TailwindCSS).
 
 ---
 
@@ -63,9 +63,8 @@ npm run dev  # For Next.js
 
 1. **Component Architecture Matters**: Proper naming and organization make debugging easier and improve scalability.
 2. **CSS Frameworks Simplify Work**: TailwindCSS provided prebuilt utility classes that streamlined styling processes.
-3. **Responsive Design**: Utilizing tools like Flexbox and CSS grid ensures a smooth user experience across devices.
-4. **Dynamic Data Usage**: Passing props to components makes the application modular and reusable.
-5. **Problem-Solving with Research**: Searching for best practices online and experimenting with solutions helped me overcome hurdles effectively.
+3. **Dynamic Data Usage**: Passing props to components makes the application modular and reusable.
+4. **Problem-Solving with Research**: Searching for best practices online and experimenting with solutions helped me overcome hurdles effectively.
 
 ---
 ### References
